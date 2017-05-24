@@ -23,7 +23,6 @@ This meeting is a hybrid teleconference and IRC chat. Anyone is welcome to join.
 
 * Group Logistics
    * Timelines. This includes meeting frequency (monthly?),  duration of group - 3 months? 4 months? based on goals?
-   * Discuss goals and priorities. What do you want to get out of this group? What kind of information do we want to share? Do we want to use this as a forum to troubleshoot technical issues, share workflows for making transcripts, etc?
    * Assign Roles
 
 * Discuss goals and priorities. What do you want to get out of this group? What kind of information do we want to share? Do we want to use this as a forum to troubleshoot technical issues, share workflows for making transcripts, etc? (Feel free to add your own for future discussion)
