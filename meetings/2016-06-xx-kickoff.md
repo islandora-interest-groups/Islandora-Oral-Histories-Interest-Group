@@ -27,10 +27,14 @@ This meeting is a hybrid teleconference and IRC chat. Anyone is welcome to join.
    * Assign Roles
 
 * Discuss goals and priorities. What do you want to get out of this group? What kind of information do we want to share? Do we want to use this as a forum to troubleshoot technical issues, share workflows for making transcripts, etc? (Feel free to add your own for future discussion)
-   * UTSC Goals
+   * Overview of goals (discussing these in-depth will not happen during the kickoff, but we can list them then decide on a meeting timeline to discuss in future meetings)
+   * General Goals
+      * How is everyone creating transcripts? Are you auto-generating transcripts? Share tools (such as the Transcriptinator)
+   * UTSC Goals/Priorities
       * Side-by-side player - does anyone use this? We are consider deprecating support for this feature.
       * Who is using the solution pack? Can we add your name to an Affilitation or Users page in the Islandora Oral Histories Solution Pack README?
       * Any known bugs in the SP that have not yet been documented/addressed?
+      * Any way to improve our tests? We currently aren't capturing all of the use cases for transcript ingest, such as native WebVTT ingest, use multiple WebVTTs, etc.
 
 ## Minutes
 
