@@ -19,3 +19,4 @@ The group is open to anyone interested in participating. To add your name to the
 * Brian Gillingham (University of Pittsburgh)
 * Kirsta Stapelfeldt (University of Toronto Scarborough)
 * Kim Pham (University of Toronto Scarborough) - convenor
+* Megan Kudzia (Michigan State University)
