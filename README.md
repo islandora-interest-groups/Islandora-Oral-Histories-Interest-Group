@@ -4,6 +4,13 @@ A place for the community to come together to share workflows, use cases, answer
 
 ## Become a Participant
 
+The Islandora Oral Histories Interest group will generally meet on the first Wednesday of every month at 3:00 pm EST. These are the following dates:
+- Wednesday, June 7, 2017
+- Wednesday, July 12, 2017
+- Wednesday, August 9, 2017
+- Wednesday, September 6, 2017
+- Wednesday, October 4, 2017 - at this meeting we will decide whether to continue the group
+
 Link to dates, agenda items, and call information will be in the Meetings subdirectory of this repository, for the appropriate meeting document.
 
 The group is open to anyone interested in participating. To add your name to the list of Islandora Oral Histories Interest Group participants, you can create a pull request on this README.md document in this repository or email one of the convenors.
@@ -25,6 +32,7 @@ The group is open to anyone interested in participating. To add your name to the
 
 ## Known Installations (Institution, Link if available, Status)
 
+* [Simon Fraser University](http://digital.lib.sfu.ca/techbc-collection)
 * [University of Wyoming](https://uwdigital.uwyo.edu/islandora/object/wyu%3A170312)
 * [University of Michigan](https://wosl.lib.msu.edu/islandora/object/wosl%3A53)
 * [University of Hagley](http://digital.hagley.org/islandora/search/?type=dismax&f%5B0%5D=RELS_EXT_hasModel_uri_ms%3A%22info%5C%3Afedora%5C/islandora%5C%3AoralhistoriesCModel%22)
@@ -34,7 +42,7 @@ The group is open to anyone interested in participating. To add your name to the
 * [PALS](http://islandora.mnpals.net/pals/islandora/object/PALSrepository%3A417)
 * add yours here
 
-## Resources
+## Islandora Oral Histories Library
 
 ### Islandora Oral History Presentations, Papers
 * Islandoracon 2017
