@@ -20,6 +20,7 @@ The group is open to anyone interested in participating. To add your name to the
 * Kirsta Stapelfeldt (University of Toronto Scarborough)
 * Kim Pham (University of Toronto Scarborough) - convenor
 * Megan Kudzia (Michigan State University)
+* add yourself here
 
 
 ## Known Installations (Institution, Link if available, Status)
@@ -28,10 +29,10 @@ The group is open to anyone interested in participating. To add your name to the
 * [University of Michigan](https://wosl.lib.msu.edu/islandora/object/wosl%3A53)
 * [University of Hagley](http://digital.hagley.org/islandora/search/?type=dismax&f%5B0%5D=RELS_EXT_hasModel_uri_ms%3A%22info%5C%3Afedora%5C/islandora%5C%3AoralhistoriesCModel%22)
 * [University of Toronto Scarborough](https://digitalscholarship.utsc.utoronto.ca/projects/islandora/object/ehrn%3A538)
-* [a](http://cjf.dhinitiative.org/islandora/object/cjf%3A122?solr_nav[id]=5cae1cc1362285654181&solr_nav[page]=0&solr_nav[offset]=0)
-* [a](http://fabb.to.cnr.it/islandora/object/fabboral%3A7)
+* [Hamilton College](http://cjf.dhinitiative.org/islandora/object/cjf%3A122?solr_nav[id]=5cae1cc1362285654181&solr_nav[page]=0&solr_nav[offset]=0)
+* [Consiglio Nazionale delle Ricerche (CNR)](http://fabb.to.cnr.it/islandora/object/fabboral%3A7)
 * [PALS](http://islandora.mnpals.net/pals/islandora/object/PALSrepository%3A417)
-
+* add yours here
 
 ## Resources
 
@@ -39,14 +40,18 @@ The group is open to anyone interested in participating. To add your name to the
 * Islandoracon 2017
    * [Capturing Voices: The Islandora Oral Histories Solution Pack](https://tspace.library.utoronto.ca/handle/1807/77220) - University of Toronto Scarborough Kirsta Stapelfeldt, Marcus Barnes, Nat Kanthan, Kim Pham
 * [Supporting Oral Histories in Islandora](http://journal.code4lib.org/articles/12176) - University of Toronto Scarborough Kirsta Stapelfeldt, Marcus Barnes, Nat Kanthan, Kim Pham
+* add yours here
 
 ### Islandora Oral Histories Workflow Documentation
+* [Islandora Oral Histories Solution Pack Documentation](https://github.com/digitalutsc/islandora_solution_pack_oralhistories/wiki) - includes how we generate transcripts, convert to XML with OpenRefine, ingest formats
 * add yours here
 
 ### Islandora Modules
 * [Islandora Oral Histories Solution Pack](https://github.com/digitalutsc/islandora_solution_pack_oralhistories)
 * [Islandora OHMS Solution Pack](https://github.com/ubermichael/islandora_solution_pack_ohms)
 * [Transcriptinator](https://github.com/mkudzia/transcriptinator)
+* [Fedora Video Ingesting](https://github.com/digitalutsc/fedora_video_ingesting) - module to batch ingest oral histories, ingest large oral history files directly into fedora
+* add yours here
 
 ### Transcript Tools
 * [Caption And Subtitle Converter for PHP](https://github.com/mantas-done/subtitles)
@@ -54,3 +59,4 @@ The group is open to anyone interested in participating. To add your name to the
 * WebVTT validator [1](https://github.com/annevk/webvtt), [2](https://quuz.org/webvtt/)
 * [Inqscribe](https://www.inqscribe.com/)
 * [Audacity](http://www.audacityteam.org/)
+* add yours here
