@@ -40,6 +40,7 @@ The group is open to anyone interested in participating. To add your name to the
 * [Hamilton College](http://cjf.dhinitiative.org/islandora/object/cjf%3A122?solr_nav[id]=5cae1cc1362285654181&solr_nav[page]=0&solr_nav[offset]=0)
 * [Consiglio Nazionale delle Ricerche (CNR)](http://fabb.to.cnr.it/islandora/object/fabboral%3A7)
 * [PALS](http://islandora.mnpals.net/pals/islandora/object/PALSrepository%3A417)
+* [CUHK](http://repository.lib.cuhk.edu.hk/en/item/cuhk-1151030)
 * add yours here
 
 ## Islandora Oral Histories Library
@@ -52,6 +53,7 @@ The group is open to anyone interested in participating. To add your name to the
 
 ### Islandora Oral Histories Workflow Documentation
 * [Islandora Oral Histories Solution Pack Documentation](https://github.com/digitalutsc/islandora_solution_pack_oralhistories/wiki) - includes how we generate transcripts, convert to XML with OpenRefine, ingest formats
+* [Research Blog @CUHK Library](http://researchblog-cuhk-lib.blogspot.com.au/2017/06/the-work-behind-video-digital.html) - A sharing of the project and workflow
 * add yours here
 
 ### Islandora Modules
@@ -67,4 +69,5 @@ The group is open to anyone interested in participating. To add your name to the
 * WebVTT validator [1](https://github.com/annevk/webvtt), [2](https://quuz.org/webvtt/)
 * [Inqscribe](https://www.inqscribe.com/)
 * [Audacity](http://www.audacityteam.org/)
+* [Subtitle Edit](http://www.nikse.dk/SubtitleEdit/)
 * add yours here
