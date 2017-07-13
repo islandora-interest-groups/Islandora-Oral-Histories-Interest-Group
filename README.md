@@ -54,9 +54,10 @@ The group is open to anyone interested in participating. To add your name to the
 ### Islandora Oral Histories Workflow Documentation
 * [Islandora Oral Histories Solution Pack Documentation](https://github.com/digitalutsc/islandora_solution_pack_oralhistories/wiki) - includes how we generate transcripts, convert to XML with OpenRefine, ingest formats
 * [Research Blog @CUHK Library](http://researchblog-cuhk-lib.blogspot.com.au/2017/06/the-work-behind-video-digital.html) - A sharing of the project and workflow
+* [Grinnell College Customizations to the Islandora Oral Histories Solution Pack](https://github.com/DigitalGrinnell/Transform_InqScribe)
 * add yours here
 
-### Islandora Modules
+### Relevant Modules
 * [Islandora Oral Histories Solution Pack](https://github.com/digitalutsc/islandora_solution_pack_oralhistories)
 * [Islandora OHMS Solution Pack](https://github.com/ubermichael/islandora_solution_pack_ohms)
 * [Transcriptinator](https://github.com/mkudzia/transcriptinator)
