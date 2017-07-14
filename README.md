@@ -27,7 +27,16 @@ The group is open to anyone interested in participating. To add your name to the
 * Kirsta Stapelfeldt (University of Toronto Scarborough)
 * Kim Pham (University of Toronto Scarborough) - convenor
 * Megan Kudzia (Michigan State University)
+* Tom Shorock (U of Kansas)
+* Yamil Suarez (Berklee College of Music)
+* Luke Ferdinand (The University of Pittsburgh)
+* Clinton Graham (The University of Pittsburgh)
+* Don Richards (UTK)
+* Melissa Anez (Islandora Foundation)
+* Peter MacDonald (Hamilton College)
+* Mike Demers (Hagley Museum & Library)
 * add yourself here
+
 
 
 ## Known Installations (Institution, Link if available, Status)
