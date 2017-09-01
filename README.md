@@ -52,6 +52,12 @@ The group is open to anyone interested in participating. To add your name to the
 * [CUHK](http://repository.lib.cuhk.edu.hk/en/item/cuhk-1151030)
 * add yours here
 
+## Existing Use Cases
+* Deep research of oral history interviews
+* Language learning, reviewing phrases
+* Audio and video accessibility
+* Search transcript -> playback audio/video clips
+
 ## Islandora Oral Histories Library
 
 ### Islandora Oral History Presentations, Papers
