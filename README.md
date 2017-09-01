@@ -50,6 +50,7 @@ The group is open to anyone interested in participating. To add your name to the
 * [Consiglio Nazionale delle Ricerche (CNR)](http://fabb.to.cnr.it/islandora/object/fabboral%3A7)
 * [PALS](http://islandora.mnpals.net/pals/islandora/object/PALSrepository%3A417)
 * [CUHK](http://repository.lib.cuhk.edu.hk/en/item/cuhk-1151030)
+* [Grinnell College](https://digital.grinnell.edu/islandora/object/grinnell:19501)
 * add yours here
 
 ## Existing Use Cases
