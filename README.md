@@ -8,7 +8,7 @@ The Islandora Oral Histories Interest group will generally meet on the first Wed
 - Wednesday, June 7, 2017
 - Wednesday, July 12, 2017
 - Wednesday, August 9, 2017
-- Wednesday, September 6, 2017
+- Monday, September 11, 2017
 - Wednesday, October 4, 2017 - at this meeting we will decide whether to continue the group
 
 Link to dates, agenda items, and call information will be in the Meetings subdirectory of this repository, for the appropriate meeting document.
