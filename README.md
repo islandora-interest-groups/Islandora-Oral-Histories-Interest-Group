@@ -55,7 +55,7 @@ The group is open to anyone interested in participating. To add your name to the
 
 ## Existing Use Cases
 * Deep research of oral history interviews
-* Language learning, reviewing phrases
+* Language learning, reviewing phrases and using playback functionality
 * Audio and video accessibility
 * Search transcript -> playback audio/video clips
 
